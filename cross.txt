@@ -1,0 +1,43 @@
+ <div class="home-about" id="about">
+        <h2>About Crossroads:</h2>
+        <p>Founded in 2019 by Nikhil Kilivayil, our goal is to impact students across Kerala through value, entertainment and actionable steps. We are the <a style="text-decoration: none;" href="https://www.youtube.com/results?search_query=crossroads"><span class="text-success" >#1 channel</span> </a>for students who are looking to build a good career in the tech industry because of the best of the best contents we put out for you. </p>
+      </div>
+      <div class="home-about">
+        <h2>About <a class="text-dark" href="https://www.facebook.com/nikhilkilivayil1" style="text-decoration: none;"> Nikhil Kilivayil</a>:</h2>
+        <p>Nikhil is a Software Engineer turned Entrepreneur who has 9+ years of work experience in the software industry and is now successfully running a Software Consultancy business in Calicut. 
+
+          His passion for teaching had led him to start an educational institution where he teaches how to learn for yourself and build a good career in the tech industry. 
+          
+          Nikhil is also the sitting President and board member of a technical NGO named Ping Foundation which focuses on building Open Source projects that have social commitments and imparting technical education to the rural youths. </p>
+    </div>
+      <div class="home-more-stuff" id="tutorial">
+        <div class="more-stuff-grid">
+          <iframe class="slide-in from-left" width="415" height="315" src="https://www.youtube.com/embed/CJ-0NsEOzcg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <p class="slide-in from-right">
+            <a style="text-decoration: none;" href="https://www.youtube.com/watch?v=pDmEYRhyusU"><span class="text-info"> 100k Coding Challange</span> </a>
+            is an initiative by Team Crossroads to teach programming in the simplest possible manner to 1 lakh students across Kerala completely FREE of cost.
+          </p>
+        </div>
+        <div class="more-stuff-grid">
+          <p class="slide-in from-left">
+            <a style="text-decoration: none;" href="https://www.youtube.com/watch?v=2TfED5L4c3M"><span class="text-warning">Web Design Challenge</span></a> is an initiative by Team Crossroads to teach how to develop and deploy a static website from scratch. The complete series will be of 10 videos and each video will cover the necessary topics such as HTML, CSS, Javascript, JQuery and Bootstrap. Also in the end we will teach you how to purchase a domain name and live host a website. 
+          </p>
+          <iframe class="slide-in from-right" width="415" height="315" src="https://www.youtube.com/embed/gIAqw_4dyyM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="more-stuff-grid">
+          <iframe class="slide-in from-left" width="415" height="315" src="https://www.youtube.com/embed/eqeyXMsipPw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <p class="slide-in from-right">
+           <a style="text-decoration: none;" href="https://www.youtube.com/watch?v=eqeyXMsipPw&list=PLY-ecO2csVHdTORoAUt-vZocGaBbgIRsZ"><span class="text-info">Tech & Career</span></a>- In this video Nikhil Kilivayil will teach you the step by step actions you need to take in order to build a rich tehie profile. After watching this video you will get all the information that you need to know in order to grow your career in a software engineering or allied field with a high income.
+          </p>
+        </div>
+        <div class="more-stuff-grid">
+          <p class="slide-in from-left">
+            <a style="text-decoration: none;" href="https://spsonline.in/"><span class="text-warning">School of Practical Studies (SPS)</span></a> helps the young Indian generation who had benefited nothing from our country’s poor education system by providing an intensive industry relevant training on the leading software technologies.
+
+            The SPS program is completely FREE upfront and our students pay zero tuition fee until they land a job. We believe everyone should get the right opportunities to learn, hence we do not charge any fees upfront.
+            
+            SPS is not just another training institute where you go learn something and leave forever. SPS is a community of high performance people who support each other and to win together. Each SPS grad will always be in touch with our community and help the new buddies as a way of giving back.
+          </p>
+          <iframe class="slide-in from-right" width="415" height="320" src="https://www.youtube.com/embed/I9QGnNvrmoY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      </div>
