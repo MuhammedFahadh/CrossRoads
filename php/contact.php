@@ -1,7 +1,7 @@
 <?php
 // Email Submit
 // Note: filter_var() requires PHP >= 5.2.0
-if (filter_var(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['subject']) && isset($_POST['message']) && filter_var($_POST['email'], FILTER_VALIDATE_EMAIL) ) ) {
+if (isset($_POST['email']) && isset($_POST['name']) && isset($_POST['subject']) && isset($_POST['message']) && filter_var($_POST['email'], FILTER_VALIDATE_EMAIL)  ) {
  
   $test = "/(content-type|bcc:|cc:|to:)/i";
   foreach ( $_POST as $key => $val ) {
@@ -14,7 +14,7 @@ $headers = 'From: ' . $_POST["name"] . '<' . $_POST["email"] . '>' . "\r\n" .
     'Reply-To: ' . $_POST["email"] . "\r\n" .
     'X-Mailer: PHP/' . phpversion();
 
-  mail( "fahadkp301@gmail.com", $_POST['subject'], $_POST['message'], $headers );
+  mail( "talk@packapeer.com", $_POST['subject'], $_POST['message'], $headers );
  
 }
 ?>
