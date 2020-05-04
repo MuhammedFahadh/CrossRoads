@@ -14,7 +14,7 @@ $headers = 'From: ' . $_POST["name"] . '<' . $_POST["email"] . '>' . "\r\n" .
     'Reply-To: ' . $_POST["email"] . "\r\n" .
     'X-Mailer: PHP/' . phpversion();
 
-  mail( "talk@packapeer.com", $_POST['subject'], $_POST['message'], $headers );
+  mail( "fahadkp301@gmail.com", $_POST['subject'], $_POST['message'], $headers );
  
 }
 ?>
